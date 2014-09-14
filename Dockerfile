@@ -8,5 +8,5 @@ ADD dot.screenrc /root/.screenrc
 ENV HOME /root
 ENV SHELL /bin/bash
 
-ENTRYPOINT /bin/bash
+CMD /bin/bash
 WORKDIR /root

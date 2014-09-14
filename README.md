@@ -2,7 +2,7 @@ docker-perl6-hacking
 ====================
 
 Docker image with a basic perl6 install (see
-https://github.com/pmakholm/docker-perl6-hacking) with additional
+https://github.com/pmakholm/docker-perl6) with additional
 developer tools installed.
 
  - GNU Screen

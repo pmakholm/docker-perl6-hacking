@@ -1,0 +1,7 @@
+nethack on
+startup_message off
+
+# Screen numbering starts at 1
+screen 1
+bind c screen 1
+bind ^c screen 1
